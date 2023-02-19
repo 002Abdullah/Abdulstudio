@@ -1,0 +1,1 @@
+alert("Did you know \n abdulstudio is the best ever");
